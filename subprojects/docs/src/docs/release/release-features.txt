@@ -1,5 +1,0 @@
- - Support for building, testing and running Java Modules
- - Precompiled script plugins for Groovy DSL
- - Better variant matching error messages
- - New experimental lock file format
- - Incremental PMD analysis
